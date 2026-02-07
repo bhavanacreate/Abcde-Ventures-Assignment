@@ -61,7 +61,7 @@ View all completed orders
 ### Automated Setup
 
 ```bash
-git clone https://github.com/vamsisripada/ABCDE_ventures_Assignment.git
+git clone https://github.com/bhavanacreate/ABCDE_ventures_Assignment.git
 cd ABCDE_ventures_Assignment
 ./setup.sh
 ```
